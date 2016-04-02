@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Down the rabbit hole]]></title>
-        <description><![CDATA[Down the rabbit hole]]></description>
+        <title><![CDATA[Poetry for contemplation]]></title>
+        <description><![CDATA[Poetry for contemplation]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 04:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 04:30:24 GMT</lastBuildDate>
         <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>                                                               Dualities of Awe</p>]]></description>
-            <link>undefineda98f1273-8937-46c2-b36e-48c3d68cd721/index.html</link>
-            <guid isPermaLink="false">a98f1273-8937-46c2-b36e-48c3d68cd721</guid>
-            <pubDate>Sat, 02 Apr 2016 04:17:10 GMT</pubDate>
+            <link>undefined41b2cd3f-f135-45a1-ad7e-f893bb778c9c/index.html</link>
+            <guid isPermaLink="false">41b2cd3f-f135-45a1-ad7e-f893bb778c9c</guid>
+            <pubDate>Sat, 02 Apr 2016 04:30:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
