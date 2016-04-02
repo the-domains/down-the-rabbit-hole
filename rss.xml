@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Poetry for contemplation]]></title>
         <description><![CDATA[Poetry for contemplation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/down-the-rabbit-hole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 04:30:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 04:31:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/down-the-rabbit-hole/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined41b2cd3f-f135-45a1-ad7e-f893bb778c9c/index.html</link>
+            <description><![CDATA[<p>                                                        Sunrises Sunset</p>]]></description>
+            <link>https://thegrid.ai/down-the-rabbit-hole/41b2cd3f-f135-45a1-ad7e-f893bb778c9c/index.html</link>
             <guid isPermaLink="false">41b2cd3f-f135-45a1-ad7e-f893bb778c9c</guid>
-            <pubDate>Sat, 02 Apr 2016 04:30:17 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 04:31:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
